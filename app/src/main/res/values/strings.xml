@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vk Video</string>
+    <integer name="com_vk_sdk_AppId">6266886</integer>
+    <string name="title_activity_video_feed">Video</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="photo">photo</string>
+    <string name="login">Login</string>
+   </resources>
